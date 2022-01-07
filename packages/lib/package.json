@@ -1,0 +1,13 @@
+{
+  "name": "@mytest/lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "module": "./test-module.js",
+  "dependencies": {
+    "@aws-amplify/ui-react": "^2.1.6"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
